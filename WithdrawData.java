@@ -8,6 +8,7 @@ public class WithdrawData {
     private long gameCnt;
     private long totalIn;
     private long totalOut;
+    private long totalOut1;
 
 
     // Constructor
